@@ -1,4 +1,4 @@
-### Hi there 👋
+### HOLA 👋 Soy Angel Vega, fullstack developer de Argentina 
 
 <!--
 **AngelVega-0816/AngelVega-0816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Puedes encontrarme en earth_americas:
+<ul>
+  <li><a href="https://www.linkedin.com/in/angel-vega-6820b91b6/" target="_blank">LinkedIn</a></li>
+  <li><a href="https://portfolio-angelv.vercel.app/" target="_blank">Portfolio</a></li>
+</ul>
