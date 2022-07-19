@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Puedes encontrarme en earth_americas :
+Puedes encontrarme en :earth_americas: :
 <ul>
   <li><a href="https://www.linkedin.com/in/angel-vega-6820b91b6/" target="_blank">LinkedIn</a></li>
   <li><a href="https://portfolio-angelv.vercel.app/" target="_blank">Portfolio</a></li>
