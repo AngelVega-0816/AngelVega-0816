@@ -116,6 +116,4 @@ Es el típico contador, pero quise innovar un poco. EL primero tiene un estilo d
 
 <p>
   <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1658100264/projects/HomeUltVist_agisoo.png'  alt="Counters" />
-  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1658100389/projects/counter-first_dkokym2_oy0hcz.png'  alt="First Counter" />
-  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1658100338/projects/counter-second_pf1171_ahtqll.png'  alt="Second Counter" />
 </p>
