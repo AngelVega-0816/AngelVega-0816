@@ -58,9 +58,6 @@ Puedes encontrarme en :earth_americas: :
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/insomnia.svg" alt="insomnia" width="40" height="40"/> 
-</a> 
 </p>
 
 
@@ -74,11 +71,10 @@ También proveemos una cuenta Admin, el cual cuenta con un panel para manejar y 
 <br/>
 <br/>
 
-- Frontend: TypeScript, React TS, Redux, React-router-DOM, Redux Thunk, HTML, CSS.
-- Backend: TypeScript, Node JS, Express, Sequelize, Firebase, Postgres, Axios.
-- DataBase: SQL.
+- Frontend: TypeScript, React TS, Redux, React-router-DOM, Redux Thunk, CSS.
+- Backend: TypeScript, Node JS, Express, Sequelize, Firebase, Axios.
+- DataBase: Postgres.
 - Deploy: Vercel, Heroku.
-- Test: Jest.
 
 <p>
   <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1657943711/projects/Home_g1zceu.png'  alt="HOME" />
@@ -86,4 +82,40 @@ También proveemos una cuenta Admin, el cual cuenta con un panel para manejar y 
   <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1658289016/projects/Prods_vjzki5.png'  alt="Home Products" />
   <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1657943711/projects/ProdDetails_vtorrd.png'  alt="Products Details" />
   <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1657943710/projects/Stats_wvne6m.png'  alt="Stats seller" />
+</p>
+
+## 🐕Dogs Api:
+<a href="https://dogs-project-tau.vercel.app/" target="_blank" rel="noreferrer">
+  Dogs Api
+</a>
+Es una página donde podrás buscar, filtrar (nombre, peso, estatura), ver detalles y crear una raza de perro
+<br/>
+<br/>
+
+- Frontend: React, Redux, React-router-DOM, Redux Thunk, CSS.
+- Backend: Node JS, Express, Sequelize, Axios.
+- DataBase: Postgres.
+- Deploy: Vercel, Heroku.
+
+<p>
+  <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1655075901/projects/home-dogs_qsp09f.png'  alt="HOME" />
+  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1655075901/projects/options-dogs_lb8xl8.png'  alt="Filtros" />
+  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1655075900/projects/details-dogs_slz5i8.png'  alt="Detalles" />
+</p>
+
+## 🕑Counter:
+<a href="https://counter-flame-three.vercel.app/" target="_blank" rel="noreferrer">
+  Counter
+</a>
+Es el típico contador, pero quise innovar un poco. EL primero tiene un estilo de lámpara de filamentos, y el segundo de neumorphism
+<br/>
+<br/>
+
+- Frontend: React, CSS.
+- Deploy: Vercel
+
+<p>
+  <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1658100264/projects/HomeUltVist_agisoo.png'  alt="Counters" />
+  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1658100389/projects/counter-first_dkokym2_oy0hcz.png'  alt="First Counter" />
+  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1658100338/projects/counter-second_pf1171_ahtqll.png'  alt="Second Counter" />
 </p>
