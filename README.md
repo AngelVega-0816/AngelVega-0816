@@ -81,9 +81,9 @@ También proveemos una cuenta Admin, el cual cuenta con un panel para manejar y 
 - Test: Jest.
 
 <p>
-  <img width=96.5% src='./img/Home.png'  alt="HOME" />
-  <img width=48% src='./img/HomeUltVist.png'  alt="Recomendaciones" />
-  <img width=48% src='./img/Prods.png'  alt="Home Products" />
-  <img width=48% src='./img/ProdDetails.png'  alt="Products Details" />
-  <img width=48% src='./img/Stats.png'  alt="Stats seller" />
+  <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1657943711/projects/Home_g1zceu.png'  alt="HOME" />
+  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1657943711/projects/HomeUltVist_zyd4tb.png'  alt="Recomendaciones" />
+  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1658289016/projects/Prods_vjzki5.png'  alt="Home Products" />
+  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1657943711/projects/ProdDetails_vtorrd.png'  alt="Products Details" />
+  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1657943710/projects/Stats_wvne6m.png'  alt="Stats seller" />
 </p>
