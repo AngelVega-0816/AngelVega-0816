@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Puedes encontrarme en :earth_americas: :
-<ul>
+
+- [LinkedIn](https://www.linkedin.com/in/angel-vega-6820b91b6/)
+- [Portfolio](https://portfolio-angelv.vercel.app/)
+
+<!-- <ul>
   <li><a href="https://www.linkedin.com/in/angel-vega-6820b91b6/" target="_blank">LinkedIn</a></li>
   <li><a href="https://portfolio-angelv.vercel.app/" target="_blank">Portfolio</a></li>
-</ul>
+</ul> -->
