@@ -63,8 +63,27 @@ Puedes encontrarme en :earth_americas: :
 </a> 
 </p>
 
-<br/>
-
-
 
 ## 🚀 Proyectos Principales:
+## 💻MyPC:
+<a href="https://mypc.vercel.app" target="_blank" rel="noreferrer">
+  MyPC
+</a>
+es un MarketPlace en el cual puedes ver, comprar y vender componentes de PC. Como usuario común puedes ver los detalles de los mismos, hacer preguntas antes de comprar, tener una lista de favoritos y un carrito. Como vendedor tiene un apartado de estadísitcas sobre tu cuenta, ventas y publicaciones para un mejor seguimiento de las mismas. Un chat entre comprador y vendedor para coordinar detalles, acompañado de notificaciones dentro de la App.<br/>
+También proveemos una cuenta Admin, el cual cuenta con un panel para manejar y tener seguimiento de las cuentas, productos, vendedores y demás, con estadísticas de la página en general.
+<br/>
+<br/>
+
+- Frontend: TypeScript, React TS, Redux, React-router-DOM, Redux Thunk, HTML, CSS.
+- Backend: TypeScript, Node JS, Express, Sequelize, Firebase, Postgres, Axios.
+- DataBase: SQL.
+- Deploy: Vercel, Heroku.
+- Test: Jest.
+
+<p>
+  <img width=96.5% src='./img/Home.png'  alt="HOME" />
+  <img width=48% src='./img/HomeUltVist.png'  alt="Recomendaciones" />
+  <img width=48% src='./img/Prods.png'  alt="Home Products" />
+  <img width=48% src='./img/ProdDetails.png'  alt="Products Details" />
+  <img width=48% src='./img/Stats.png'  alt="Stats seller" />
+</p>
