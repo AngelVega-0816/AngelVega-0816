@@ -19,7 +19,7 @@ Puedes encontrarme en :earth_americas: :
 
 - [LinkedIn](https://www.linkedin.com/in/angel-vega-6820b91b6/)
 - [Portfolio](https://portfolio-angelv.vercel.app/)
-- Email: angelvegaxdpro@hotmail.com
+- angelvegaxdpro@hotmail.com
 
 
 ## ⚙️ Lenguajes y herramientas:
