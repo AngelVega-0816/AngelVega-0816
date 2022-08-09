@@ -119,3 +119,35 @@ Es el típico contador, pero quise innovar un poco. EL primero tiene un estilo d
 <p>
   <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1658100264/projects/HomeUltVist_agisoo.png'  alt="Counters" />
 </p>
+
+## 🎮Teris.io:
+<a href="https://tetris-io-client.vercel.app/" target="_blank" rel="noreferrer">
+  Tetris.io
+</a>
+Es el famoso juego donde lo implementé principalmente en React y lo hice multijugador usando sockets
+<br/>
+<br/>
+
+- Frontend: React, CSS.
+- Backend: Express, Socket.io
+- Deploy: Vercel, Heroku
+
+<p>
+  <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1659988226/projects/terisgametwo_ulnqel.png'  alt="Tetris" />
+</p>
+
+## 📺Video Chat:
+<a href="https://video-chat--webrtc.vercel.app/" target="_blank" rel="noreferrer">
+  Video Chat
+</a>
+Partiendo de WebRTC, creé éste chat de video en tiempo real usando sockets y react
+<br/>
+<br/>
+
+- Frontend: React, Material UI.
+- Backend: Express, Socket.io
+- Deploy: Vercel, Heroku
+
+<p>
+  <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1660062374/projects/68747470733a2f2f692e6962622e636f2f37575a524c44312f3132322e6a7067_dwkou3.jpg'  alt="VideoChat" />
+</p>
