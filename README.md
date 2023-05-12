@@ -64,26 +64,6 @@ Puedes encontrarme en :earth_americas: :
 
 
 ## 🚀 Proyectos Principales:
-## 💻MyPC:
-<a href="https://mypc.vercel.app" target="_blank" rel="noreferrer">
-  MyPC
-</a>
-es un MarketPlace en el cual puedes ver, comprar y vender componentes de PC. Como usuario común puedes ver los detalles de los mismos, hacer preguntas antes de comprar, tener una lista de favoritos y un carrito. Como vendedor tiene un apartado de estadísitcas sobre tu cuenta, ventas y publicaciones para un mejor seguimiento de las mismas. Un chat entre comprador y vendedor para coordinar detalles, acompañado de notificaciones dentro de la App.<br/>
-También proveemos una cuenta Admin, el cual cuenta con un panel para manejar y tener seguimiento de las cuentas, productos, vendedores y demás, con estadísticas de la página en general.
-<br/>
-<br/>
-
-- Frontend: TypeScript, React TS, Redux, React-router-DOM, Redux Thunk, CSS.
-- Backend: TypeScript, Node JS, Express, Sequelize, Firebase, Axios.
-- DataBase: Postgres.
-- Deploy: Vercel, Heroku.
-
-<p>
-  <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1665085523/projects/Home_g1zceu_ggtzda.png'  alt="HOME" />
-  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1665085523/projects/Stats_wvne6m_hpakel.png'  alt="Stats seller" />
-  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1665085523/projects/ProdDetails_vtorrd_u6s7pr.png'  alt="Products Details" />
-</p>
-
 ## 🐕Dogs Api:
 <a href="https://dogs-project-tau.vercel.app/" target="_blank" rel="noreferrer">
   Dogs Api
@@ -125,6 +105,27 @@ Es el típico contador, pero quise innovar un poco. EL primero tiene un estilo d
 Es el famoso juego donde lo implementé principalmente en React y lo hice multijugador usando sockets
 <br/>
 <br/>
+
+## 💻MyPC:
+<a href="https://mypc.vercel.app" target="_blank" rel="noreferrer">
+  MyPC
+</a>
+es un MarketPlace en el cual puedes ver, comprar y vender componentes de PC. Como usuario común puedes ver los detalles de los mismos, hacer preguntas antes de comprar, tener una lista de favoritos y un carrito. Como vendedor tiene un apartado de estadísitcas sobre tu cuenta, ventas y publicaciones para un mejor seguimiento de las mismas. Un chat entre comprador y vendedor para coordinar detalles, acompañado de notificaciones dentro de la App.<br/>
+También proveemos una cuenta Admin, el cual cuenta con un panel para manejar y tener seguimiento de las cuentas, productos, vendedores y demás, con estadísticas de la página en general.
+<br/>
+<br/>
+
+- Frontend: TypeScript, React TS, Redux, React-router-DOM, Redux Thunk, CSS.
+- Backend: TypeScript, Node JS, Express, Sequelize, Firebase, Axios.
+- DataBase: Postgres.
+- Deploy: Vercel, Heroku.
+
+<p>
+  <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1665085523/projects/Home_g1zceu_ggtzda.png'  alt="HOME" />
+  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1665085523/projects/Stats_wvne6m_hpakel.png'  alt="Stats seller" />
+  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1665085523/projects/ProdDetails_vtorrd_u6s7pr.png'  alt="Products Details" />
+</p>
+
 
 - Frontend: React, CSS.
 - Backend: Express, Socket.io
