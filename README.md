@@ -80,7 +80,7 @@ También proveemos una cuenta Admin, el cual cuenta con un panel para manejar y 
 
 <p>
   <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1665085523/projects/Home_g1zceu_ggtzda.png'  alt="HOME" />
-  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1658289016/projects/Prods_vjzki5.png'  alt="Home Products" />
+  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1665085523/projects/Stats_wvne6m_hpakel.png'  alt="Stats seller" />
   <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1665085523/projects/ProdDetails_vtorrd_u6s7pr.png'  alt="Products Details" />
 </p>
 
