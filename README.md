@@ -115,7 +115,7 @@ Es el típico contador, pero quise innovar un poco. EL primero tiene un estilo d
 - Deploy: Vercel
 
 <p>
-  <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1658100264/projects/HomeUltVist_agisoo.png'  alt="Counters" />
+  <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1665085026/projects/HomeUltVist_agisoo_kmjin1.png'  alt="Counters" />
 </p>
 
 ## 🎮Teris.io:
@@ -131,21 +131,6 @@ Es el famoso juego donde lo implementé principalmente en React y lo hice multij
 - Deploy: Vercel, Heroku
 
 <p>
-  <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1659988226/projects/terisgametwo_ulnqel.png'  alt="Tetris" />
+  <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1665084100/projects/terisgametwo_ulnqel_a3uykj.png'  alt="Tetris" />
 </p>
 
-## 📺Video Chat:
-<a href="https://video-chat--webrtc.vercel.app/" target="_blank" rel="noreferrer">
-  Video Chat
-</a>
-Partiendo de WebRTC, creé éste chat de video en tiempo real usando sockets y react
-<br/>
-<br/>
-
-- Frontend: React, Material UI.
-- Backend: Express, Socket.io
-- Deploy: Vercel, Heroku
-
-<p>
-  <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1660062374/projects/68747470733a2f2f692e6962622e636f2f37575a524c44312f3132322e6a7067_dwkou3.jpg'  alt="VideoChat" />
-</p>
