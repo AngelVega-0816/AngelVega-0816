@@ -79,11 +79,11 @@ También proveemos una cuenta Admin, el cual cuenta con un panel para manejar y 
 - Deploy: Vercel, Heroku.
 
 <p>
-  <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1657943711/projects/Home_g1zceu.png'  alt="HOME" />
-  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1657943711/projects/HomeUltVist_zyd4tb.png'  alt="Recomendaciones" />
+  <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1665085523/projects/Home_g1zceu_ggtzda.png'  alt="HOME" />
+  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1665085523/projects/HomeUltVist_zyd4tb_vzd1v9.png'  alt="Recomendaciones" />
   <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1658289016/projects/Prods_vjzki5.png'  alt="Home Products" />
-  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1657943711/projects/ProdDetails_vtorrd.png'  alt="Products Details" />
-  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1657943710/projects/Stats_wvne6m.png'  alt="Stats seller" />
+  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1665085523/projects/ProdDetails_vtorrd_u6s7pr.png'  alt="Products Details" />
+  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1665085523/projects/Stats_wvne6m_hpakel.png'  alt="Stats seller" />
 </p>
 
 ## 🐕Dogs Api:
@@ -101,8 +101,8 @@ Es una página donde podrás buscar, filtrar (nombre, peso, estatura), ver detal
 
 <p>
   <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1655075901/projects/home-dogs_qsp09f.png'  alt="HOME" />
-  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1655075901/projects/options-dogs_lb8xl8.png'  alt="Filtros" />
-  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1655075900/projects/details-dogs_slz5i8.png'  alt="Detalles" />
+  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1665084649/projects/options-dogs_lb8xl8_lsjsqr.png'  alt="Filtros" />
+  <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1665084648/projects/details-dogs_slz5i8_wq08ld.png'  alt="Detalles" />
 </p>
 
 ## 🕑Counter:
