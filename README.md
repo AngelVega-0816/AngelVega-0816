@@ -106,6 +106,14 @@ Es el famoso juego donde lo implementé principalmente en React y lo hice multij
 <br/>
 <br/>
 
+- Frontend: React, CSS.
+- Backend: Express, Socket.io
+- Deploy: Vercel, Heroku
+
+<p>
+  <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1665084100/projects/terisgametwo_ulnqel_a3uykj.png'  alt="Tetris" />
+</p>
+
 ## 💻MyPC:
 <a href="https://mypc.vercel.app" target="_blank" rel="noreferrer">
   MyPC
@@ -125,13 +133,3 @@ También proveemos una cuenta Admin, el cual cuenta con un panel para manejar y 
   <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1665085523/projects/Stats_wvne6m_hpakel.png'  alt="Stats seller" />
   <img width=48% src='https://res.cloudinary.com/imgp/image/upload/v1665085523/projects/ProdDetails_vtorrd_u6s7pr.png'  alt="Products Details" />
 </p>
-
-
-- Frontend: React, CSS.
-- Backend: Express, Socket.io
-- Deploy: Vercel, Heroku
-
-<p>
-  <img width=96.5% src='https://res.cloudinary.com/imgp/image/upload/v1665084100/projects/terisgametwo_ulnqel_a3uykj.png'  alt="Tetris" />
-</p>
-
